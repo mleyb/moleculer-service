@@ -1,4 +1,4 @@
-[![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
+[![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services) [![Build Status](https://travis-ci.org/mleyb/moleculer-service.svg?branch=master)](https://travis-ci.org/mleyb/moleculer-service)
 
 # moleculer-service
 
